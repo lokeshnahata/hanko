@@ -85,7 +85,7 @@ We are currently in **Beta** and may introduce breaking changes. Watch our relea
 |⚙️| Basic email templating & i8n |
 | | 2FA for securing passcodes & passwords |
 | | Webhooks |
-| | Refresh tokens / sessions |
+| | Refresh tokens/sessions |
 | | Sign in with Microsoft |
 | | OIDC support |
 
